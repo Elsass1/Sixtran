@@ -1,6 +1,10 @@
 ## Sixtran
 
-Sixtran is an alternative to [Fivetran](https://www.fivetran.com). It was built with the purpose of being easier and cheaper than Sixtran.
+<p align="center">
+  <img src="images/sixtran-logo.png" width="200"/>
+</p>
+
+Sixtran was built to improve the user experience of data engineers working with [Fivetran](https://www.fivetran.com). The application brings simplicity and cost-effectiveness to data integration.
 
 This is a legacy project for which we implemented tests and translated the codebase into TypeScript.
 
@@ -8,8 +12,8 @@ This is a legacy project for which we implemented tests and translated the codeb
 ## Screenshots
 
 <p align="center">
-  <img src="images/sixtran-image-one.png" />
-  <img src="images/sixtran-image-two.png" />
+  <img src="images/sixtran-image-one.png" width="500"/>
+  <img src="images/sixtran-image-two.png" width="500"/>
 </p>
 
 
