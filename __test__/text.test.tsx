@@ -62,8 +62,8 @@ describe('ConnectorDetail Component', () => {
 const BEFORE_ALL_TIMEOUT = 30000;
 
 const endpoint = 'account/info';
-const fivetranApiKey = 'ry20pbspJZSlyxrQ';
-const fivetranApiSecret = 'Ny5RezCXx4A4GmCccwjDvJxatTB7B3la';
+const fivetranApiKey = ''; // api key
+const fivetranApiSecret = ''; // api secret
 const credentials = `${fivetranApiKey}:${fivetranApiSecret}`;
 const encodedCredentials = Buffer.from(credentials).toString('base64');
 const authorizationHeader = `Basic ${encodedCredentials}`;
