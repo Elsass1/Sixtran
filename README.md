@@ -53,12 +53,9 @@ npm run dev
 
 
 ## Developers
-* Sevim Tas Joseph [GitHub](https://github.com/sevtechcodes)
-* [LinkedIn](https://www.linkedin.com/in/sevimjoseph)
-* Jemima Cecil [GitHub](https://github.com/jemimacecil)
-* [LinkedIn](https://www.linkedin.com/in/jemima-cecil-5602211a0/)
-* Brice Fromm [GitHub](https://github.com/Elsass1)
-* [LinkedIn](https://www.linkedin.com/in/frommbrice)
+* Sevim Tas Joseph [GitHub](https://github.com/sevtechcodes) - [LinkedIn](https://www.linkedin.com/in/sevimjoseph)
+* Jemima Cecil [GitHub](https://github.com/jemimacecil) - [LinkedIn](https://www.linkedin.com/in/jemima-cecil-5602211a0/)
+* Brice Fromm [GitHub](https://github.com/Elsass1) - [LinkedIn](https://www.linkedin.com/in/frommbrice)
 
 
 
